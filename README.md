@@ -1,2 +1,2 @@
 # todo
-Todo list singlepage application. Classic.
+Application representing todo list. Perhaps most common example for coding skills improvement.
